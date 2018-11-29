@@ -1,0 +1,24 @@
+How to Create OS Installation Media on a Flash Drive and Install an Operating System
+
+To start I will be using Kali Linux for this tutorial also don't forget to plug in your usb
+
+Step 1: Download Universal USB installer
+
+Step 2: Run the program and agree
+
+Step 3: Select your OS
+
+Step 4: Check the download link box and download your iso file
+
+Step 5: Click the browse button and select your iso file we just downloaded
+
+Step 6: Select your usb and check the format box
+
+Step 7: Hit create and let the program do the rest
+
+Step 8: Go into your computer's Bios and set the boots order to boot from usb
+
+Step 9: Startup your computer and once your at the OS instalation Screen click install
+
+Now your finished just let the os install and you'll be able to use you new operating system
+Thanks for whatching i hope this tutorial helped

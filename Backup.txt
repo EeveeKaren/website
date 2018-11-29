@@ -1,0 +1,57 @@
+
+Creating a system image backup
+
+
+First search "backup" in the windows start bar.
+
+
+Next you want to click "Backup and Restore (Windows 7)
+
+
+Once you get to the Gui click "Create a system image"
+
+
+A gui will open with three options pick the third "On a network Location"
+
+
+Next you will want to shrink that and go to your file explorer
+
+
+Type into quick acess \\vmserver\YOURUSERNAME_72k
+
+
+Once your in the file location create a new file and name it what ever you want
+
+
+Next you want to click the bar to the left of the search bar and copy the location
+
+
+Now you'll want Create a system image gui we found earlier
+
+
+You'll wan to select the "select" bar next to "On a network Location"
+
+
+Next you'll want to paste in the location we copied
+
+
+Next you put in your credentials 
+
+Username:ist2\YOURUSERNAME
+
+Password:YOURPASSWORD
+
+
+Your network location should now be shown
+
+
+You now can click "next"
+
+
+Now you can start the backup i have already gotten a backup so i will not be doing this
+
+
+END
+
+
+
